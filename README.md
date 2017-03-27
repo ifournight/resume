@@ -73,5 +73,6 @@
 * [Twitter](twitter.com/ifournight)
 
 ## Contact
+* Name: 宋辉
 * Email: ifournight@gmail.com
 * Phone: 186 2805 4504
