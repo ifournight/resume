@@ -10,7 +10,7 @@
 * 熟悉Ruby语法，读完，理解并练习了Programming Ruby 的Part 1
 * Rails：
 	* 学习[RailsTutorial](https://www.railstutorial.org/)，跟着示例代码完成了[mini-twitter](https://github.com/ifournight/rails_sample_app)的项目
-	* 读完[Agile Web Dev by Rail 5](https://www.railstutorial.org/)，尽量独立完成了购物车页面[depot](https://github.com/ifournight/depot)
+	* 读完[Agile Web Dev by Rail 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)，尽量独立完成了购物车页面[depot](https://github.com/ifournight/depot)
 	* 独立完成了**[InstagramClone](https://github.com/ifournight/instagram_clone)**，一个Instagram的web版本克隆，这是目前我写过的较完整的Web App, 也是对我当前能力的一种体现，请移驾至Github页面进行评估
 	* 看过官方Rails Guide所有基础内容，和部分进阶内容多遍
 * 理解TDD, 正在学习[Testing Rails](http://Testingrailsbook.com)，并着手实践中
@@ -27,7 +27,7 @@
 * 会使用Photoshop, Sketch
 
 ## About me
-我今年27岁，男，正规958/211大学本科毕业，**非**计算机编程相关专业。目前有3年半的编程工作经验。
+我今年27岁，男，正规985/211大学本科毕业，**非**计算机编程相关专业。目前有3年半的编程工作经验。
 
 按照时间顺序来：
 * 半年多的Web前端开发 （2013）
@@ -68,9 +68,9 @@
 
 ## Social media
 
-* [Github](github.com/ifournight)
-* [Instagram](instagram.com/ifournight)
-* [Twitter](twitter.com/ifournight)
+* [Github](https://github.com/ifournight)
+* [Instagram](https://instagram.com/ifournight)
+* [Twitter](https://twitter.com/ifournight)
 
 ## Contact
 * Name: 宋辉
