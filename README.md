@@ -1,5 +1,7 @@
 ## 基本信息
-我今年27岁。四川大学本科毕业，专业华西药学系。2013年开始从事技术开发工作，目前3年半的工作经验，但主要以3D游戏开发为主。
+我今年27岁。四川大学本科毕业，专业华西药学系。
+
+2013年开始从事技术开发工作，目前3年半的工作经验，但主要以3D游戏开发为主。
 
 ## 我的技能
 * 熟悉和掌握基础Ruby语法
@@ -15,7 +17,7 @@
 	* 能够区分Model, View, Request, Controller, Feature Test各自的职能，写出分工明确的Test
 	* 会利用Rspec的double和stub进行isolation test
 * 数据库, 服务器：
-	* 正在学习SQL和Retional DB的基础
+	* 有一定的SQL和Retional DB的基础，理解ACID原则，能够用ERD图标设计产品的模型关系
 * 能够承担一定的前端工作：
 	* 掌握HTML5, CSS3, 深入学习过 JavaScript
 	* 有以Backbone为MVC框架的前端项目经验
